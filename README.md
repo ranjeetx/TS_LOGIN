@@ -16,6 +16,8 @@ Steps to Run
 1. npm install
 2. npm start
 
+visit: http://localhost:3200
+
 Enjoy the show. 
 
   
